@@ -29,7 +29,7 @@ for (int j = 0; j < size; j++)
 {
     if (arrPrimary[j].Length <= length)
     {
-        arrResult[count] = arrPrimary[j]; // кладем  результат в итоговый массив
+        arrResult[count] = arrPrimary[j]; // кладем результат в итоговый массив
         count++;
     }
 }
